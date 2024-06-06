@@ -22,4 +22,4 @@
 
 ## Reference
 - <a href="https://openapi.kftc.or.kr/main" target="_blank">Open API Potal</a>
-- <a href="https://developers.kftc.or.kr/dev" target="_blan">Open API Developers</a>
+- <a href="https://developers.kftc.or.kr/dev" target="_blank">Open API Developers</a>
