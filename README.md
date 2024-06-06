@@ -7,8 +7,8 @@
 - Microservice Architecture
 
 ## Service
-- Management
 - Authorization
+- Management
 - Account
 - Card
 - Prepayment
