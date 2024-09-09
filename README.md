@@ -17,7 +17,10 @@
 ## Technology
 - Java
 - Spring Boot
+- Spring Security
+- Spring Cloud
 - Oracle
+- Vue.js
 
 ## Reference
 - <a href="https://openapi.kftc.or.kr/main" target="_blank">Open API Potal</a>
