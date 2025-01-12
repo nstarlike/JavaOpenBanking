@@ -30,5 +30,7 @@
 - Vue.js
 
 ## Reference
+- [Open API Portal](https://openapi.kftc.or.kr/main){target="_blank"}
+- [Open API Developers](https://developers.kftc.or.kr/dev){target="_blank"}
 - <a href="https://openapi.kftc.or.kr/main" target="_blank">Open API Potal</a>
 - <a href="https://developers.kftc.or.kr/dev" target="_blank">Open API Developers</a>
