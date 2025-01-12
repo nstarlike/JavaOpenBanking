@@ -20,7 +20,7 @@
 - Card
 <br>This service provides card-related services. Users can check the list of their credit cards, the information of each card and the bills.
 - Prepayment
-<br>This service provides prepay-related services. Users can check the list of their prepayments, the information and the transactional history of each prepayment.
+<br>This service provides prepay-related services. Users can check the list of their prepayments, the balance, the information and the transactional history of each prepayment.
 - Insurance
 <br>This service provides insurance-related services. Users can check the list of their insurances which they contracted and the payment history of each insurance.
 - Loan
