@@ -27,8 +27,8 @@
 <br>This service provides loan-related services. Users can check the list of their Loans and the basic information of each loan.
 
 ## Technology
-- Java
-- Spring Boot
+- Java 17
+- Spring Boot 3.4.1
 - Spring Security
 - Spring Cloud
 - Oracle
