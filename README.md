@@ -32,7 +32,7 @@
 - Spring Security
 - Spring Cloud
 - Oracle
-- Vue.js
+- React.js
 
 ## Reference
 - [Open API Portal](https://openapi.kftc.or.kr/main)
